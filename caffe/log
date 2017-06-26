@@ -1,0 +1,510 @@
+Binary file build/tools/train_net.o matches
+Binary file build/tools/finetune_net.bin matches
+Binary file build/tools/finetune_net.o matches
+Binary file build/tools/extract_features.bin matches
+Binary file build/tools/train_net.bin matches
+Binary file build/tools/upgrade_net_proto_binary.bin matches
+Binary file build/tools/upgrade_solver_proto_text.o matches
+Binary file build/tools/upgrade_solver_proto_text.bin matches
+Binary file build/tools/convert_imageset.o matches
+Binary file build/tools/upgrade_net_proto_text.bin matches
+Binary file build/tools/device_query.bin matches
+Binary file build/tools/test_net.o matches
+Binary file build/tools/test_net.bin matches
+Binary file build/tools/caffe.o matches
+Binary file build/tools/device_query.o matches
+Binary file build/tools/net_speed_benchmark.o matches
+Binary file build/tools/convert_imageset.bin matches
+Binary file build/tools/net_speed_benchmark.bin matches
+Binary file build/tools/compute_image_mean.bin matches
+Binary file build/tools/upgrade_net_proto_text.o matches
+Binary file build/tools/compute_image_mean.o matches
+Binary file build/tools/extract_features.o matches
+Binary file build/tools/upgrade_net_proto_binary.o matches
+Binary file build/tools/caffe.bin matches
+Binary file build/lib/libcaffe.a matches
+Binary file build/lib/libcaffe.so.1.0.0-rc3 matches
+Binary file build/src/caffe/layers/input_layer.o matches
+Binary file build/src/caffe/layers/exp_layer.o matches
+Binary file build/src/caffe/layers/reduction_layer.o matches
+Binary file build/src/caffe/layers/dummy_data_layer.o matches
+Binary file build/src/caffe/layers/rnn_layer.o matches
+Binary file build/src/caffe/layers/data_layer.o matches
+Binary file build/src/caffe/layers/cudnn_lcn_layer.o matches
+Binary file build/src/caffe/layers/euclidean_loss_layer.o matches
+Binary file build/src/caffe/layers/power_layer.o matches
+Binary file build/src/caffe/layers/conv_layer.o matches
+Binary file build/src/caffe/layers/memory_data_layer.o matches
+Binary file build/src/caffe/layers/embed_layer.o matches
+Binary file build/src/caffe/layers/loss_layer.o matches
+Binary file build/src/caffe/layers/sigmoid_layer.o matches
+Binary file build/src/caffe/layers/cudnn_softmax_layer.o matches
+Binary file build/src/caffe/layers/neuron_layer.o matches
+Binary file build/src/caffe/layers/reshape_layer.o matches
+Binary file build/src/caffe/layers/tanh_layer.o matches
+Binary file build/src/caffe/layers/tile_layer.o matches
+Binary file build/src/caffe/layers/hdf5_output_layer.o matches
+Binary file build/src/caffe/layers/batch_norm_layer.o matches
+Binary file build/src/caffe/layers/pooling_layer.o matches
+Binary file build/src/caffe/layers/prelu_layer.o matches
+Binary file build/src/caffe/layers/window_data_layer.o matches
+Binary file build/src/caffe/layers/bias_layer.o matches
+Binary file build/src/caffe/layers/deconv_layer.o matches
+Binary file build/src/caffe/layers/split_layer.o matches
+Binary file build/src/caffe/layers/threshold_layer.o matches
+Binary file build/src/caffe/layers/parameter_layer.o matches
+Binary file build/src/caffe/layers/infogain_loss_layer.o matches
+Binary file build/src/caffe/layers/accuracy_layer.o matches
+Binary file build/src/caffe/layers/base_data_layer.o matches
+Binary file build/src/caffe/layers/box_annotator_ohem_layer.o matches
+Binary file build/src/caffe/layers/lrn_layer.o matches
+Binary file build/src/caffe/layers/multinomial_logistic_loss_layer.o matches
+Binary file build/src/caffe/layers/scale_layer.o matches
+Binary file build/src/caffe/layers/log_layer.o matches
+Binary file build/src/caffe/layers/inner_product_layer.o matches
+Binary file build/src/caffe/layers/batch_reindex_layer.o matches
+Binary file build/src/caffe/layers/flatten_layer.o matches
+Binary file build/src/caffe/layers/im2col_layer.o matches
+Binary file build/src/caffe/layers/contrastive_loss_layer.o matches
+Binary file build/src/caffe/layers/concat_layer.o matches
+Binary file build/src/caffe/layers/spp_layer.o matches
+Binary file build/src/caffe/layers/lstm_layer.o matches
+Binary file build/src/caffe/layers/cudnn_conv_layer.o matches
+Binary file build/src/caffe/layers/eltwise_layer.o matches
+Binary file build/src/caffe/layers/elu_layer.o matches
+Binary file build/src/caffe/layers/softmax_layer.o matches
+Binary file build/src/caffe/layers/smooth_L1_loss_ohem_layer.o matches
+Binary file build/src/caffe/layers/cudnn_lrn_layer.o matches
+Binary file build/src/caffe/layers/cudnn_relu_layer.o matches
+Binary file build/src/caffe/layers/mvn_layer.o matches
+Binary file build/src/caffe/layers/softmax_loss_layer.o matches
+Binary file build/src/caffe/layers/slice_layer.o matches
+Binary file build/src/caffe/layers/absval_layer.o matches
+Binary file build/src/caffe/layers/psroi_pooling_layer.o matches
+Binary file build/src/caffe/layers/base_conv_layer.o matches
+Binary file build/src/caffe/layers/hinge_loss_layer.o matches
+Binary file build/src/caffe/layers/crop_layer.o matches
+Binary file build/src/caffe/layers/cudnn_tanh_layer.o matches
+Binary file build/src/caffe/layers/filter_layer.o matches
+Binary file build/src/caffe/layers/relu_layer.o matches
+Binary file build/src/caffe/layers/cudnn_pooling_layer.o matches
+Binary file build/src/caffe/layers/hdf5_data_layer.o matches
+Binary file build/src/caffe/layers/softmax_loss_ohem_layer.o matches
+Binary file build/src/caffe/layers/lstm_unit_layer.o matches
+Binary file build/src/caffe/layers/smooth_l1_loss_layer.o matches
+Binary file build/src/caffe/layers/roi_pooling_layer.o matches
+Binary file build/src/caffe/layers/recurrent_layer.o matches
+Binary file build/src/caffe/layers/image_data_layer.o matches
+Binary file build/src/caffe/layers/sigmoid_cross_entropy_loss_layer.o matches
+Binary file build/src/caffe/layers/dropout_layer.o matches
+Binary file build/src/caffe/layers/cudnn_sigmoid_layer.o matches
+Binary file build/src/caffe/layers/argmax_layer.o matches
+Binary file build/src/caffe/layers/silence_layer.o matches
+Binary file build/src/caffe/layers/bnll_layer.o matches
+Binary file build/src/caffe/net.o matches
+Binary file build/src/caffe/parallel.o matches
+Binary file build/src/caffe/util/benchmark.o matches
+Binary file build/src/caffe/util/hdf5.o matches
+Binary file build/src/caffe/util/io.o matches
+Binary file build/src/caffe/util/math_functions.o matches
+Binary file build/src/caffe/util/cudnn.o matches
+Binary file build/src/caffe/util/db.o matches
+Binary file build/src/caffe/util/im2col.o matches
+Binary file build/src/caffe/util/db_leveldb.o matches
+Binary file build/src/caffe/util/db_lmdb.o matches
+Binary file build/src/caffe/util/insert_splits.o matches
+Binary file build/src/caffe/util/upgrade_proto.o matches
+Binary file build/src/caffe/util/blocking_queue.o matches
+Binary file build/src/caffe/util/signal_handler.o matches
+Binary file build/src/caffe/solver.o matches
+Binary file build/src/caffe/data_transformer.o matches
+Binary file build/src/caffe/internal_thread.o matches
+Binary file build/src/caffe/blob.o matches
+Binary file build/src/caffe/common.o matches
+Binary file build/src/caffe/solvers/adagrad_solver.o matches
+Binary file build/src/caffe/solvers/rmsprop_solver.o matches
+Binary file build/src/caffe/solvers/adadelta_solver.o matches
+Binary file build/src/caffe/solvers/nesterov_solver.o matches
+Binary file build/src/caffe/solvers/sgd_solver.o matches
+Binary file build/src/caffe/solvers/adam_solver.o matches
+Binary file build/src/caffe/layer.o matches
+build/src/caffe/proto/caffe.pb.cc:const ::google::protobuf::EnumDescriptor* LossParameter_NormalizationMode_descriptor_ = NULL;
+build/src/caffe/proto/caffe.pb.cc:  LossParameter_NormalizationMode_descriptor_ = LossParameter_descriptor_->enum_type(0);
+build/src/caffe/proto/caffe.pb.cc:const ::google::protobuf::EnumDescriptor* LossParameter_NormalizationMode_descriptor() {
+build/src/caffe/proto/caffe.pb.cc:  return LossParameter_NormalizationMode_descriptor_;
+build/src/caffe/proto/caffe.pb.cc:bool LossParameter_NormalizationMode_IsValid(int value) {
+build/src/caffe/proto/caffe.pb.cc:const LossParameter_NormalizationMode LossParameter::FULL;
+build/src/caffe/proto/caffe.pb.cc:const LossParameter_NormalizationMode LossParameter::VALID;
+build/src/caffe/proto/caffe.pb.cc:const LossParameter_NormalizationMode LossParameter::BATCH_SIZE;
+build/src/caffe/proto/caffe.pb.cc:const LossParameter_NormalizationMode LossParameter::PRE_FIXED;
+build/src/caffe/proto/caffe.pb.cc:const LossParameter_NormalizationMode LossParameter::NONE;
+build/src/caffe/proto/caffe.pb.cc:const LossParameter_NormalizationMode LossParameter::NormalizationMode_MIN;
+build/src/caffe/proto/caffe.pb.cc:const LossParameter_NormalizationMode LossParameter::NormalizationMode_MAX;
+build/src/caffe/proto/caffe.pb.cc:          if (::caffe::LossParameter_NormalizationMode_IsValid(value)) {
+build/src/caffe/proto/caffe.pb.cc:            set_normalization(static_cast< ::caffe::LossParameter_NormalizationMode >(value));
+build/src/caffe/proto/caffe.pb.cc: ::caffe::LossParameter_NormalizationMode LossParameter::normalization() const {
+build/src/caffe/proto/caffe.pb.cc:  return static_cast< ::caffe::LossParameter_NormalizationMode >(normalization_);
+build/src/caffe/proto/caffe.pb.cc: void LossParameter::set_normalization(::caffe::LossParameter_NormalizationMode value) {
+build/src/caffe/proto/caffe.pb.cc:  assert(::caffe::LossParameter_NormalizationMode_IsValid(value));
+build/src/caffe/proto/caffe.pb.h:enum LossParameter_NormalizationMode {
+build/src/caffe/proto/caffe.pb.h:  LossParameter_NormalizationMode_FULL = 0,
+build/src/caffe/proto/caffe.pb.h:  LossParameter_NormalizationMode_VALID = 1,
+build/src/caffe/proto/caffe.pb.h:  LossParameter_NormalizationMode_BATCH_SIZE = 2,
+build/src/caffe/proto/caffe.pb.h:  LossParameter_NormalizationMode_PRE_FIXED = 3,
+build/src/caffe/proto/caffe.pb.h:  LossParameter_NormalizationMode_NONE = 4
+build/src/caffe/proto/caffe.pb.h:bool LossParameter_NormalizationMode_IsValid(int value);
+build/src/caffe/proto/caffe.pb.h:const LossParameter_NormalizationMode LossParameter_NormalizationMode_NormalizationMode_MIN = LossParameter_NormalizationMode_FULL;
+build/src/caffe/proto/caffe.pb.h:const LossParameter_NormalizationMode LossParameter_NormalizationMode_NormalizationMode_MAX = LossParameter_NormalizationMode_NONE;
+build/src/caffe/proto/caffe.pb.h:const int LossParameter_NormalizationMode_NormalizationMode_ARRAYSIZE = LossParameter_NormalizationMode_NormalizationMode_MAX + 1;
+build/src/caffe/proto/caffe.pb.h:const ::google::protobuf::EnumDescriptor* LossParameter_NormalizationMode_descriptor();
+build/src/caffe/proto/caffe.pb.h:inline const ::std::string& LossParameter_NormalizationMode_Name(LossParameter_NormalizationMode value) {
+build/src/caffe/proto/caffe.pb.h:    LossParameter_NormalizationMode_descriptor(), value);
+build/src/caffe/proto/caffe.pb.h:inline bool LossParameter_NormalizationMode_Parse(
+build/src/caffe/proto/caffe.pb.h:    const ::std::string& name, LossParameter_NormalizationMode* value) {
+build/src/caffe/proto/caffe.pb.h:  return ::google::protobuf::internal::ParseNamedEnum<LossParameter_NormalizationMode>(
+build/src/caffe/proto/caffe.pb.h:    LossParameter_NormalizationMode_descriptor(), name, value);
+build/src/caffe/proto/caffe.pb.h:  typedef LossParameter_NormalizationMode NormalizationMode;
+build/src/caffe/proto/caffe.pb.h:    LossParameter_NormalizationMode_FULL;
+build/src/caffe/proto/caffe.pb.h:    LossParameter_NormalizationMode_VALID;
+build/src/caffe/proto/caffe.pb.h:    LossParameter_NormalizationMode_BATCH_SIZE;
+build/src/caffe/proto/caffe.pb.h:    LossParameter_NormalizationMode_PRE_FIXED;
+build/src/caffe/proto/caffe.pb.h:    LossParameter_NormalizationMode_NONE;
+build/src/caffe/proto/caffe.pb.h:    return LossParameter_NormalizationMode_IsValid(value);
+build/src/caffe/proto/caffe.pb.h:    LossParameter_NormalizationMode_NormalizationMode_MIN;
+build/src/caffe/proto/caffe.pb.h:    LossParameter_NormalizationMode_NormalizationMode_MAX;
+build/src/caffe/proto/caffe.pb.h:    LossParameter_NormalizationMode_NormalizationMode_ARRAYSIZE;
+build/src/caffe/proto/caffe.pb.h:    return LossParameter_NormalizationMode_descriptor();
+build/src/caffe/proto/caffe.pb.h:    return LossParameter_NormalizationMode_Name(value);
+build/src/caffe/proto/caffe.pb.h:    return LossParameter_NormalizationMode_Parse(name, value);
+build/src/caffe/proto/caffe.pb.h:  ::caffe::LossParameter_NormalizationMode normalization() const;
+build/src/caffe/proto/caffe.pb.h:  void set_normalization(::caffe::LossParameter_NormalizationMode value);
+build/src/caffe/proto/caffe.pb.h:inline ::caffe::LossParameter_NormalizationMode LossParameter::normalization() const {
+build/src/caffe/proto/caffe.pb.h:  return static_cast< ::caffe::LossParameter_NormalizationMode >(normalization_);
+build/src/caffe/proto/caffe.pb.h:inline void LossParameter::set_normalization(::caffe::LossParameter_NormalizationMode value) {
+build/src/caffe/proto/caffe.pb.h:  assert(::caffe::LossParameter_NormalizationMode_IsValid(value));
+build/src/caffe/proto/caffe.pb.h:template <> struct is_proto_enum< ::caffe::LossParameter_NormalizationMode> : ::google::protobuf::internal::true_type {};
+build/src/caffe/proto/caffe.pb.h:inline const EnumDescriptor* GetEnumDescriptor< ::caffe::LossParameter_NormalizationMode>() {
+build/src/caffe/proto/caffe.pb.h:  return ::caffe::LossParameter_NormalizationMode_descriptor();
+Binary file build/src/caffe/proto/caffe.pb.o matches
+Binary file build/src/caffe/data_reader.o matches
+Binary file build/src/caffe/layer_factory.o matches
+Binary file build/src/caffe/syncedmem.o matches
+Binary file build/cuda/src/caffe/layers/exp_layer.o matches
+Binary file build/cuda/src/caffe/layers/reduction_layer.o matches
+Binary file build/cuda/src/caffe/layers/cudnn_lcn_layer.o matches
+Binary file build/cuda/src/caffe/layers/euclidean_loss_layer.o matches
+Binary file build/cuda/src/caffe/layers/power_layer.o matches
+Binary file build/cuda/src/caffe/layers/conv_layer.o matches
+Binary file build/cuda/src/caffe/layers/embed_layer.o matches
+Binary file build/cuda/src/caffe/layers/sigmoid_layer.o matches
+Binary file build/cuda/src/caffe/layers/cudnn_softmax_layer.o matches
+Binary file build/cuda/src/caffe/layers/tanh_layer.o matches
+Binary file build/cuda/src/caffe/layers/tile_layer.o matches
+Binary file build/cuda/src/caffe/layers/hdf5_output_layer.o matches
+Binary file build/cuda/src/caffe/layers/batch_norm_layer.o matches
+Binary file build/cuda/src/caffe/layers/pooling_layer.o matches
+Binary file build/cuda/src/caffe/layers/prelu_layer.o matches
+Binary file build/cuda/src/caffe/layers/bias_layer.o matches
+Binary file build/cuda/src/caffe/layers/deconv_layer.o matches
+Binary file build/cuda/src/caffe/layers/split_layer.o matches
+Binary file build/cuda/src/caffe/layers/threshold_layer.o matches
+Binary file build/cuda/src/caffe/layers/base_data_layer.o matches
+Binary file build/cuda/src/caffe/layers/box_annotator_ohem_layer.o matches
+Binary file build/cuda/src/caffe/layers/lrn_layer.o matches
+Binary file build/cuda/src/caffe/layers/scale_layer.o matches
+Binary file build/cuda/src/caffe/layers/log_layer.o matches
+Binary file build/cuda/src/caffe/layers/inner_product_layer.o matches
+Binary file build/cuda/src/caffe/layers/batch_reindex_layer.o matches
+Binary file build/cuda/src/caffe/layers/im2col_layer.o matches
+Binary file build/cuda/src/caffe/layers/contrastive_loss_layer.o matches
+Binary file build/cuda/src/caffe/layers/concat_layer.o matches
+Binary file build/cuda/src/caffe/layers/cudnn_conv_layer.o matches
+Binary file build/cuda/src/caffe/layers/eltwise_layer.o matches
+Binary file build/cuda/src/caffe/layers/elu_layer.o matches
+Binary file build/cuda/src/caffe/layers/softmax_layer.o matches
+Binary file build/cuda/src/caffe/layers/smooth_L1_loss_ohem_layer.o matches
+Binary file build/cuda/src/caffe/layers/cudnn_lrn_layer.o matches
+Binary file build/cuda/src/caffe/layers/cudnn_relu_layer.o matches
+Binary file build/cuda/src/caffe/layers/mvn_layer.o matches
+Binary file build/cuda/src/caffe/layers/softmax_loss_layer.o matches
+Binary file build/cuda/src/caffe/layers/slice_layer.o matches
+Binary file build/cuda/src/caffe/layers/absval_layer.o matches
+Binary file build/cuda/src/caffe/layers/psroi_pooling_layer.o matches
+Binary file build/cuda/src/caffe/layers/crop_layer.o matches
+Binary file build/cuda/src/caffe/layers/cudnn_tanh_layer.o matches
+Binary file build/cuda/src/caffe/layers/filter_layer.o matches
+Binary file build/cuda/src/caffe/layers/relu_layer.o matches
+Binary file build/cuda/src/caffe/layers/cudnn_pooling_layer.o matches
+Binary file build/cuda/src/caffe/layers/hdf5_data_layer.o matches
+Binary file build/cuda/src/caffe/layers/softmax_loss_ohem_layer.o matches
+Binary file build/cuda/src/caffe/layers/lstm_unit_layer.o matches
+Binary file build/cuda/src/caffe/layers/smooth_l1_loss_layer.o matches
+Binary file build/cuda/src/caffe/layers/roi_pooling_layer.o matches
+Binary file build/cuda/src/caffe/layers/recurrent_layer.o matches
+Binary file build/cuda/src/caffe/layers/sigmoid_cross_entropy_loss_layer.o matches
+Binary file build/cuda/src/caffe/layers/dropout_layer.o matches
+Binary file build/cuda/src/caffe/layers/cudnn_sigmoid_layer.o matches
+Binary file build/cuda/src/caffe/layers/silence_layer.o matches
+Binary file build/cuda/src/caffe/layers/bnll_layer.o matches
+Binary file build/cuda/src/caffe/util/math_functions.o matches
+Binary file build/cuda/src/caffe/util/im2col.o matches
+Binary file build/cuda/src/caffe/solvers/adagrad_solver.o matches
+Binary file build/cuda/src/caffe/solvers/rmsprop_solver.o matches
+Binary file build/cuda/src/caffe/solvers/adadelta_solver.o matches
+Binary file build/cuda/src/caffe/solvers/nesterov_solver.o matches
+Binary file build/cuda/src/caffe/solvers/sgd_solver.o matches
+Binary file build/cuda/src/caffe/solvers/adam_solver.o matches
+Binary file build/examples/cpp_classification/classification.bin matches
+Binary file build/examples/cpp_classification/classification.o matches
+Binary file build/examples/siamese/convert_mnist_siamese_data.o matches
+Binary file build/examples/siamese/convert_mnist_siamese_data.bin matches
+Binary file build/examples/cifar10/convert_cifar_data.o matches
+Binary file build/examples/cifar10/convert_cifar_data.bin matches
+Binary file build/examples/mnist/convert_mnist_data.o matches
+Binary file build/examples/mnist/convert_mnist_data.bin matches
+include/caffe/layers/softmax_loss_layer.hpp:      LossParameter_NormalizationMode normalization_mode, int valid_count);
+include/caffe/layers/softmax_loss_layer.hpp:  LossParameter_NormalizationMode normalization_;
+include/caffe/layers/smooth_l1_loss_ohem_layer.hpp:      LossParameter_NormalizationMode normalization_mode,
+include/caffe/layers/smooth_l1_loss_ohem_layer.hpp:    LossParameter_NormalizationMode normalization_;
+include/caffe/layers/softmax_loss_ohem_layer.hpp:      LossParameter_NormalizationMode normalization_mode, int valid_count);
+include/caffe/layers/softmax_loss_ohem_layer.hpp:  LossParameter_NormalizationMode normalization_;
+grep: input file ‘log’ is also the output
+src/caffe/layers/softmax_loss_layer.cu:  if (normalization_ == LossParameter_NormalizationMode_VALID &&
+src/caffe/layers/softmax_loss_layer.cu:    if (normalization_ == LossParameter_NormalizationMode_VALID &&
+src/caffe/layers/softmax_loss_ohem_layer.cu:  if (normalization_ == LossParameter_NormalizationMode_VALID &&
+src/caffe/layers/softmax_loss_ohem_layer.cu:    if (normalization_ == LossParameter_NormalizationMode_VALID &&
+src/caffe/layers/smooth_L1_loss_ohem_layer.cpp:    LossParameter_NormalizationMode_VALID :
+src/caffe/layers/smooth_L1_loss_ohem_layer.cpp:    LossParameter_NormalizationMode_BATCH_SIZE;
+src/caffe/layers/smooth_L1_loss_ohem_layer.cpp:  LossParameter_NormalizationMode normalization_mode,
+src/caffe/layers/smooth_L1_loss_ohem_layer.cpp:  case LossParameter_NormalizationMode_FULL:
+src/caffe/layers/smooth_L1_loss_ohem_layer.cpp:  case LossParameter_NormalizationMode_VALID:
+src/caffe/layers/smooth_L1_loss_ohem_layer.cpp:  case LossParameter_NormalizationMode_BATCH_SIZE:
+src/caffe/layers/smooth_L1_loss_ohem_layer.cpp:  case LossParameter_NormalizationMode_PRE_FIXED:
+src/caffe/layers/smooth_L1_loss_ohem_layer.cpp:  case LossParameter_NormalizationMode_NONE:
+src/caffe/layers/smooth_L1_loss_ohem_layer.cpp:      << LossParameter_NormalizationMode_Name(normalization_mode);
+src/caffe/layers/softmax_loss_ohem_layer.cpp:                     LossParameter_NormalizationMode_VALID :
+src/caffe/layers/softmax_loss_ohem_layer.cpp:                     LossParameter_NormalizationMode_BATCH_SIZE;
+src/caffe/layers/softmax_loss_ohem_layer.cpp:    LossParameter_NormalizationMode normalization_mode, int valid_count) {
+src/caffe/layers/softmax_loss_ohem_layer.cpp:    case LossParameter_NormalizationMode_FULL:
+src/caffe/layers/softmax_loss_ohem_layer.cpp:    case LossParameter_NormalizationMode_VALID:
+src/caffe/layers/softmax_loss_ohem_layer.cpp:    case LossParameter_NormalizationMode_BATCH_SIZE:
+src/caffe/layers/softmax_loss_ohem_layer.cpp:    case LossParameter_NormalizationMode_NONE:
+src/caffe/layers/softmax_loss_ohem_layer.cpp:          << LossParameter_NormalizationMode_Name(normalization_mode);
+src/caffe/layers/softmax_loss_layer.cpp:                     LossParameter_NormalizationMode_VALID :
+src/caffe/layers/softmax_loss_layer.cpp:                     LossParameter_NormalizationMode_BATCH_SIZE;
+src/caffe/layers/softmax_loss_layer.cpp:    LossParameter_NormalizationMode normalization_mode, int valid_count) {
+src/caffe/layers/softmax_loss_layer.cpp:    case LossParameter_NormalizationMode_FULL:
+src/caffe/layers/softmax_loss_layer.cpp:    case LossParameter_NormalizationMode_VALID:
+src/caffe/layers/softmax_loss_layer.cpp:    case LossParameter_NormalizationMode_BATCH_SIZE:
+src/caffe/layers/softmax_loss_layer.cpp:    case LossParameter_NormalizationMode_NONE:
+src/caffe/layers/softmax_loss_layer.cpp:          << LossParameter_NormalizationMode_Name(normalization_mode);
+tags:BATCH_SIZE	.build_debug/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::BATCH_SIZE;$/;"	m	class:caffe::LossParameter	file:
+tags:BATCH_SIZE	.build_release/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::BATCH_SIZE;$/;"	m	class:caffe::LossParameter	file:
+tags:BATCH_SIZE	build/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::BATCH_SIZE;$/;"	m	class:caffe::LossParameter	file:
+tags:FULL	.build_debug/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::FULL;$/;"	m	class:caffe::LossParameter	file:
+tags:FULL	.build_release/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::FULL;$/;"	m	class:caffe::LossParameter	file:
+tags:FULL	build/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::FULL;$/;"	m	class:caffe::LossParameter	file:
+tags:GetEnumDescriptor	.build_debug/src/caffe/proto/caffe.pb.h	/^inline const EnumDescriptor* GetEnumDescriptor< ::caffe::LossParameter_NormalizationMode>() {$/;"	f	namespace:google::protobuf	signature:()
+tags:GetEnumDescriptor	.build_release/src/caffe/proto/caffe.pb.h	/^inline const EnumDescriptor* GetEnumDescriptor< ::caffe::LossParameter_NormalizationMode>() {$/;"	f	namespace:google::protobuf	signature:()
+tags:GetEnumDescriptor	build/src/caffe/proto/caffe.pb.h	/^inline const EnumDescriptor* GetEnumDescriptor< ::caffe::LossParameter_NormalizationMode>() {$/;"	f	namespace:google::protobuf	signature:()
+tags:LossParameter_NormalizationMode	.build_debug/src/caffe/proto/caffe.pb.h	/^enum LossParameter_NormalizationMode {$/;"	g	namespace:caffe
+tags:LossParameter_NormalizationMode	.build_release/src/caffe/proto/caffe.pb.h	/^enum LossParameter_NormalizationMode {$/;"	g	namespace:caffe
+tags:LossParameter_NormalizationMode	build/src/caffe/proto/caffe.pb.h	/^enum LossParameter_NormalizationMode {$/;"	g	namespace:caffe
+tags:LossParameter_NormalizationMode_BATCH_SIZE	.build_debug/src/caffe/proto/caffe.pb.h	/^  LossParameter_NormalizationMode_BATCH_SIZE = 2,$/;"	e	enum:caffe::LossParameter_NormalizationMode
+tags:LossParameter_NormalizationMode_BATCH_SIZE	.build_release/src/caffe/proto/caffe.pb.h	/^  LossParameter_NormalizationMode_BATCH_SIZE = 2,$/;"	e	enum:caffe::LossParameter_NormalizationMode
+tags:LossParameter_NormalizationMode_BATCH_SIZE	build/src/caffe/proto/caffe.pb.h	/^  LossParameter_NormalizationMode_BATCH_SIZE = 2,$/;"	e	enum:caffe::LossParameter_NormalizationMode
+tags:LossParameter_NormalizationMode_FULL	.build_debug/src/caffe/proto/caffe.pb.h	/^  LossParameter_NormalizationMode_FULL = 0,$/;"	e	enum:caffe::LossParameter_NormalizationMode
+tags:LossParameter_NormalizationMode_FULL	.build_release/src/caffe/proto/caffe.pb.h	/^  LossParameter_NormalizationMode_FULL = 0,$/;"	e	enum:caffe::LossParameter_NormalizationMode
+tags:LossParameter_NormalizationMode_FULL	build/src/caffe/proto/caffe.pb.h	/^  LossParameter_NormalizationMode_FULL = 0,$/;"	e	enum:caffe::LossParameter_NormalizationMode
+tags:LossParameter_NormalizationMode_IsValid	.build_debug/src/caffe/proto/caffe.pb.cc	/^bool LossParameter_NormalizationMode_IsValid(int value) {$/;"	f	namespace:caffe	signature:(int value)
+tags:LossParameter_NormalizationMode_IsValid	.build_debug/src/caffe/proto/caffe.pb.h	/^bool LossParameter_NormalizationMode_IsValid(int value);$/;"	p	namespace:caffe	signature:(int value)
+tags:LossParameter_NormalizationMode_IsValid	.build_release/src/caffe/proto/caffe.pb.cc	/^bool LossParameter_NormalizationMode_IsValid(int value) {$/;"	f	namespace:caffe	signature:(int value)
+tags:LossParameter_NormalizationMode_IsValid	.build_release/src/caffe/proto/caffe.pb.h	/^bool LossParameter_NormalizationMode_IsValid(int value);$/;"	p	namespace:caffe	signature:(int value)
+tags:LossParameter_NormalizationMode_IsValid	build/src/caffe/proto/caffe.pb.cc	/^bool LossParameter_NormalizationMode_IsValid(int value) {$/;"	f	namespace:caffe	signature:(int value)
+tags:LossParameter_NormalizationMode_IsValid	build/src/caffe/proto/caffe.pb.h	/^bool LossParameter_NormalizationMode_IsValid(int value);$/;"	p	namespace:caffe	signature:(int value)
+tags:LossParameter_NormalizationMode_NONE	.build_debug/src/caffe/proto/caffe.pb.h	/^  LossParameter_NormalizationMode_NONE = 4$/;"	e	enum:caffe::LossParameter_NormalizationMode
+tags:LossParameter_NormalizationMode_NONE	.build_release/src/caffe/proto/caffe.pb.h	/^  LossParameter_NormalizationMode_NONE = 4$/;"	e	enum:caffe::LossParameter_NormalizationMode
+tags:LossParameter_NormalizationMode_NONE	build/src/caffe/proto/caffe.pb.h	/^  LossParameter_NormalizationMode_NONE = 4$/;"	e	enum:caffe::LossParameter_NormalizationMode
+tags:LossParameter_NormalizationMode_Name	.build_debug/src/caffe/proto/caffe.pb.h	/^inline const ::std::string& LossParameter_NormalizationMode_Name(LossParameter_NormalizationMode value) {$/;"	f	namespace:caffe	signature:(LossParameter_NormalizationMode value)
+tags:LossParameter_NormalizationMode_Name	.build_release/src/caffe/proto/caffe.pb.h	/^inline const ::std::string& LossParameter_NormalizationMode_Name(LossParameter_NormalizationMode value) {$/;"	f	namespace:caffe	signature:(LossParameter_NormalizationMode value)
+tags:LossParameter_NormalizationMode_Name	build/src/caffe/proto/caffe.pb.h	/^inline const ::std::string& LossParameter_NormalizationMode_Name(LossParameter_NormalizationMode value) {$/;"	f	namespace:caffe	signature:(LossParameter_NormalizationMode value)
+tags:LossParameter_NormalizationMode_NormalizationMode_ARRAYSIZE	.build_debug/src/caffe/proto/caffe.pb.h	/^const int LossParameter_NormalizationMode_NormalizationMode_ARRAYSIZE = LossParameter_NormalizationMode_NormalizationMode_MAX + 1;$/;"	m	namespace:caffe
+tags:LossParameter_NormalizationMode_NormalizationMode_ARRAYSIZE	.build_release/src/caffe/proto/caffe.pb.h	/^const int LossParameter_NormalizationMode_NormalizationMode_ARRAYSIZE = LossParameter_NormalizationMode_NormalizationMode_MAX + 1;$/;"	m	namespace:caffe
+tags:LossParameter_NormalizationMode_NormalizationMode_ARRAYSIZE	build/src/caffe/proto/caffe.pb.h	/^const int LossParameter_NormalizationMode_NormalizationMode_ARRAYSIZE = LossParameter_NormalizationMode_NormalizationMode_MAX + 1;$/;"	m	namespace:caffe
+tags:LossParameter_NormalizationMode_NormalizationMode_MAX	.build_debug/src/caffe/proto/caffe.pb.h	/^const LossParameter_NormalizationMode LossParameter_NormalizationMode_NormalizationMode_MAX = LossParameter_NormalizationMode_NONE;$/;"	m	namespace:caffe
+tags:LossParameter_NormalizationMode_NormalizationMode_MAX	.build_release/src/caffe/proto/caffe.pb.h	/^const LossParameter_NormalizationMode LossParameter_NormalizationMode_NormalizationMode_MAX = LossParameter_NormalizationMode_NONE;$/;"	m	namespace:caffe
+tags:LossParameter_NormalizationMode_NormalizationMode_MAX	build/src/caffe/proto/caffe.pb.h	/^const LossParameter_NormalizationMode LossParameter_NormalizationMode_NormalizationMode_MAX = LossParameter_NormalizationMode_NONE;$/;"	m	namespace:caffe
+tags:LossParameter_NormalizationMode_NormalizationMode_MIN	.build_debug/src/caffe/proto/caffe.pb.h	/^const LossParameter_NormalizationMode LossParameter_NormalizationMode_NormalizationMode_MIN = LossParameter_NormalizationMode_FULL;$/;"	m	namespace:caffe
+tags:LossParameter_NormalizationMode_NormalizationMode_MIN	.build_release/src/caffe/proto/caffe.pb.h	/^const LossParameter_NormalizationMode LossParameter_NormalizationMode_NormalizationMode_MIN = LossParameter_NormalizationMode_FULL;$/;"	m	namespace:caffe
+tags:LossParameter_NormalizationMode_NormalizationMode_MIN	build/src/caffe/proto/caffe.pb.h	/^const LossParameter_NormalizationMode LossParameter_NormalizationMode_NormalizationMode_MIN = LossParameter_NormalizationMode_FULL;$/;"	m	namespace:caffe
+tags:LossParameter_NormalizationMode_PRE_FIXED	.build_debug/src/caffe/proto/caffe.pb.h	/^  LossParameter_NormalizationMode_PRE_FIXED = 3,$/;"	e	enum:caffe::LossParameter_NormalizationMode
+tags:LossParameter_NormalizationMode_PRE_FIXED	.build_release/src/caffe/proto/caffe.pb.h	/^  LossParameter_NormalizationMode_PRE_FIXED = 3,$/;"	e	enum:caffe::LossParameter_NormalizationMode
+tags:LossParameter_NormalizationMode_PRE_FIXED	build/src/caffe/proto/caffe.pb.h	/^  LossParameter_NormalizationMode_PRE_FIXED = 3,$/;"	e	enum:caffe::LossParameter_NormalizationMode
+tags:LossParameter_NormalizationMode_Parse	.build_debug/src/caffe/proto/caffe.pb.h	/^inline bool LossParameter_NormalizationMode_Parse($/;"	f	namespace:caffe	signature:( const ::std::string& name, LossParameter_NormalizationMode* value)
+tags:LossParameter_NormalizationMode_Parse	.build_release/src/caffe/proto/caffe.pb.h	/^inline bool LossParameter_NormalizationMode_Parse($/;"	f	namespace:caffe	signature:( const ::std::string& name, LossParameter_NormalizationMode* value)
+tags:LossParameter_NormalizationMode_Parse	build/src/caffe/proto/caffe.pb.h	/^inline bool LossParameter_NormalizationMode_Parse($/;"	f	namespace:caffe	signature:( const ::std::string& name, LossParameter_NormalizationMode* value)
+tags:LossParameter_NormalizationMode_VALID	.build_debug/src/caffe/proto/caffe.pb.h	/^  LossParameter_NormalizationMode_VALID = 1,$/;"	e	enum:caffe::LossParameter_NormalizationMode
+tags:LossParameter_NormalizationMode_VALID	.build_release/src/caffe/proto/caffe.pb.h	/^  LossParameter_NormalizationMode_VALID = 1,$/;"	e	enum:caffe::LossParameter_NormalizationMode
+tags:LossParameter_NormalizationMode_VALID	build/src/caffe/proto/caffe.pb.h	/^  LossParameter_NormalizationMode_VALID = 1,$/;"	e	enum:caffe::LossParameter_NormalizationMode
+tags:LossParameter_NormalizationMode_descriptor	.build_debug/src/caffe/proto/caffe.pb.cc	/^const ::google::protobuf::EnumDescriptor* LossParameter_NormalizationMode_descriptor() {$/;"	f	namespace:caffe	signature:()
+tags:LossParameter_NormalizationMode_descriptor	.build_debug/src/caffe/proto/caffe.pb.h	/^const ::google::protobuf::EnumDescriptor* LossParameter_NormalizationMode_descriptor();$/;"	p	namespace:caffe	signature:()
+tags:LossParameter_NormalizationMode_descriptor	.build_release/src/caffe/proto/caffe.pb.cc	/^const ::google::protobuf::EnumDescriptor* LossParameter_NormalizationMode_descriptor() {$/;"	f	namespace:caffe	signature:()
+tags:LossParameter_NormalizationMode_descriptor	.build_release/src/caffe/proto/caffe.pb.h	/^const ::google::protobuf::EnumDescriptor* LossParameter_NormalizationMode_descriptor();$/;"	p	namespace:caffe	signature:()
+tags:LossParameter_NormalizationMode_descriptor	build/src/caffe/proto/caffe.pb.cc	/^const ::google::protobuf::EnumDescriptor* LossParameter_NormalizationMode_descriptor() {$/;"	f	namespace:caffe	signature:()
+tags:LossParameter_NormalizationMode_descriptor	build/src/caffe/proto/caffe.pb.h	/^const ::google::protobuf::EnumDescriptor* LossParameter_NormalizationMode_descriptor();$/;"	p	namespace:caffe	signature:()
+tags:LossParameter_NormalizationMode_descriptor_	.build_debug/src/caffe/proto/caffe.pb.cc	/^const ::google::protobuf::EnumDescriptor* LossParameter_NormalizationMode_descriptor_ = NULL;$/;"	m	namespace:caffe::__anon11	file:
+tags:LossParameter_NormalizationMode_descriptor_	.build_release/src/caffe/proto/caffe.pb.cc	/^const ::google::protobuf::EnumDescriptor* LossParameter_NormalizationMode_descriptor_ = NULL;$/;"	m	namespace:caffe::__anon7	file:
+tags:LossParameter_NormalizationMode_descriptor_	build/src/caffe/proto/caffe.pb.cc	/^const ::google::protobuf::EnumDescriptor* LossParameter_NormalizationMode_descriptor_ = NULL;$/;"	m	namespace:caffe::__anon9	file:
+tags:NONE	.build_debug/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::NONE;$/;"	m	class:caffe::LossParameter	file:
+tags:NONE	.build_release/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::NONE;$/;"	m	class:caffe::LossParameter	file:
+tags:NONE	build/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::NONE;$/;"	m	class:caffe::LossParameter	file:
+tags:NormalizationMode	.build_debug/src/caffe/proto/caffe.pb.h	/^  typedef LossParameter_NormalizationMode NormalizationMode;$/;"	t	class:caffe::LossParameter	access:public
+tags:NormalizationMode	.build_release/src/caffe/proto/caffe.pb.h	/^  typedef LossParameter_NormalizationMode NormalizationMode;$/;"	t	class:caffe::LossParameter	access:public
+tags:NormalizationMode	build/src/caffe/proto/caffe.pb.h	/^  typedef LossParameter_NormalizationMode NormalizationMode;$/;"	t	class:caffe::LossParameter	access:public
+tags:NormalizationMode_MAX	.build_debug/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::NormalizationMode_MAX;$/;"	m	class:caffe::LossParameter	file:
+tags:NormalizationMode_MAX	.build_release/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::NormalizationMode_MAX;$/;"	m	class:caffe::LossParameter	file:
+tags:NormalizationMode_MAX	build/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::NormalizationMode_MAX;$/;"	m	class:caffe::LossParameter	file:
+tags:NormalizationMode_MIN	.build_debug/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::NormalizationMode_MIN;$/;"	m	class:caffe::LossParameter	file:
+tags:NormalizationMode_MIN	.build_release/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::NormalizationMode_MIN;$/;"	m	class:caffe::LossParameter	file:
+tags:NormalizationMode_MIN	build/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::NormalizationMode_MIN;$/;"	m	class:caffe::LossParameter	file:
+tags:PRE_FIXED	.build_debug/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::PRE_FIXED;$/;"	m	class:caffe::LossParameter	file:
+tags:PRE_FIXED	.build_release/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::PRE_FIXED;$/;"	m	class:caffe::LossParameter	file:
+tags:PRE_FIXED	build/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::PRE_FIXED;$/;"	m	class:caffe::LossParameter	file:
+tags:VALID	.build_debug/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::VALID;$/;"	m	class:caffe::LossParameter	file:
+tags:VALID	.build_release/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::VALID;$/;"	m	class:caffe::LossParameter	file:
+tags:VALID	build/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::VALID;$/;"	m	class:caffe::LossParameter	file:
+tags:caffe::LossParameter::BATCH_SIZE	.build_debug/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::BATCH_SIZE;$/;"	m	class:caffe::LossParameter	file:
+tags:caffe::LossParameter::BATCH_SIZE	.build_release/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::BATCH_SIZE;$/;"	m	class:caffe::LossParameter	file:
+tags:caffe::LossParameter::BATCH_SIZE	build/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::BATCH_SIZE;$/;"	m	class:caffe::LossParameter	file:
+tags:caffe::LossParameter::FULL	.build_debug/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::FULL;$/;"	m	class:caffe::LossParameter	file:
+tags:caffe::LossParameter::FULL	.build_release/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::FULL;$/;"	m	class:caffe::LossParameter	file:
+tags:caffe::LossParameter::FULL	build/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::FULL;$/;"	m	class:caffe::LossParameter	file:
+tags:caffe::LossParameter::NONE	.build_debug/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::NONE;$/;"	m	class:caffe::LossParameter	file:
+tags:caffe::LossParameter::NONE	.build_release/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::NONE;$/;"	m	class:caffe::LossParameter	file:
+tags:caffe::LossParameter::NONE	build/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::NONE;$/;"	m	class:caffe::LossParameter	file:
+tags:caffe::LossParameter::NormalizationMode	.build_debug/src/caffe/proto/caffe.pb.h	/^  typedef LossParameter_NormalizationMode NormalizationMode;$/;"	t	class:caffe::LossParameter	access:public
+tags:caffe::LossParameter::NormalizationMode	.build_release/src/caffe/proto/caffe.pb.h	/^  typedef LossParameter_NormalizationMode NormalizationMode;$/;"	t	class:caffe::LossParameter	access:public
+tags:caffe::LossParameter::NormalizationMode	build/src/caffe/proto/caffe.pb.h	/^  typedef LossParameter_NormalizationMode NormalizationMode;$/;"	t	class:caffe::LossParameter	access:public
+tags:caffe::LossParameter::NormalizationMode_MAX	.build_debug/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::NormalizationMode_MAX;$/;"	m	class:caffe::LossParameter	file:
+tags:caffe::LossParameter::NormalizationMode_MAX	.build_release/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::NormalizationMode_MAX;$/;"	m	class:caffe::LossParameter	file:
+tags:caffe::LossParameter::NormalizationMode_MAX	build/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::NormalizationMode_MAX;$/;"	m	class:caffe::LossParameter	file:
+tags:caffe::LossParameter::NormalizationMode_MIN	.build_debug/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::NormalizationMode_MIN;$/;"	m	class:caffe::LossParameter	file:
+tags:caffe::LossParameter::NormalizationMode_MIN	.build_release/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::NormalizationMode_MIN;$/;"	m	class:caffe::LossParameter	file:
+tags:caffe::LossParameter::NormalizationMode_MIN	build/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::NormalizationMode_MIN;$/;"	m	class:caffe::LossParameter	file:
+tags:caffe::LossParameter::PRE_FIXED	.build_debug/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::PRE_FIXED;$/;"	m	class:caffe::LossParameter	file:
+tags:caffe::LossParameter::PRE_FIXED	.build_release/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::PRE_FIXED;$/;"	m	class:caffe::LossParameter	file:
+tags:caffe::LossParameter::PRE_FIXED	build/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::PRE_FIXED;$/;"	m	class:caffe::LossParameter	file:
+tags:caffe::LossParameter::VALID	.build_debug/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::VALID;$/;"	m	class:caffe::LossParameter	file:
+tags:caffe::LossParameter::VALID	.build_release/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::VALID;$/;"	m	class:caffe::LossParameter	file:
+tags:caffe::LossParameter::VALID	build/src/caffe/proto/caffe.pb.cc	/^const LossParameter_NormalizationMode LossParameter::VALID;$/;"	m	class:caffe::LossParameter	file:
+tags:caffe::LossParameter::normalization	.build_debug/src/caffe/proto/caffe.pb.cc	/^ ::caffe::LossParameter_NormalizationMode LossParameter::normalization() const {$/;"	f	class:caffe::LossParameter	signature:() const
+tags:caffe::LossParameter::normalization	.build_debug/src/caffe/proto/caffe.pb.h	/^  ::caffe::LossParameter_NormalizationMode normalization() const;$/;"	p	class:caffe::LossParameter	access:public	signature:() const
+tags:caffe::LossParameter::normalization	.build_debug/src/caffe/proto/caffe.pb.h	/^inline ::caffe::LossParameter_NormalizationMode LossParameter::normalization() const {$/;"	f	class:caffe::LossParameter	signature:() const
+tags:caffe::LossParameter::normalization	.build_release/src/caffe/proto/caffe.pb.cc	/^ ::caffe::LossParameter_NormalizationMode LossParameter::normalization() const {$/;"	f	class:caffe::LossParameter	signature:() const
+tags:caffe::LossParameter::normalization	.build_release/src/caffe/proto/caffe.pb.h	/^  ::caffe::LossParameter_NormalizationMode normalization() const;$/;"	p	class:caffe::LossParameter	access:public	signature:() const
+tags:caffe::LossParameter::normalization	.build_release/src/caffe/proto/caffe.pb.h	/^inline ::caffe::LossParameter_NormalizationMode LossParameter::normalization() const {$/;"	f	class:caffe::LossParameter	signature:() const
+tags:caffe::LossParameter::normalization	build/src/caffe/proto/caffe.pb.cc	/^ ::caffe::LossParameter_NormalizationMode LossParameter::normalization() const {$/;"	f	class:caffe::LossParameter	signature:() const
+tags:caffe::LossParameter::normalization	build/src/caffe/proto/caffe.pb.h	/^  ::caffe::LossParameter_NormalizationMode normalization() const;$/;"	p	class:caffe::LossParameter	access:public	signature:() const
+tags:caffe::LossParameter::normalization	build/src/caffe/proto/caffe.pb.h	/^inline ::caffe::LossParameter_NormalizationMode LossParameter::normalization() const {$/;"	f	class:caffe::LossParameter	signature:() const
+tags:caffe::LossParameter::set_normalization	.build_debug/src/caffe/proto/caffe.pb.cc	/^ void LossParameter::set_normalization(::caffe::LossParameter_NormalizationMode value) {$/;"	f	class:caffe::LossParameter	signature:(::caffe::LossParameter_NormalizationMode value)
+tags:caffe::LossParameter::set_normalization	.build_debug/src/caffe/proto/caffe.pb.h	/^  void set_normalization(::caffe::LossParameter_NormalizationMode value);$/;"	p	class:caffe::LossParameter	access:public	signature:(::caffe::LossParameter_NormalizationMode value)
+tags:caffe::LossParameter::set_normalization	.build_debug/src/caffe/proto/caffe.pb.h	/^inline void LossParameter::set_normalization(::caffe::LossParameter_NormalizationMode value) {$/;"	f	class:caffe::LossParameter	signature:(::caffe::LossParameter_NormalizationMode value)
+tags:caffe::LossParameter::set_normalization	.build_release/src/caffe/proto/caffe.pb.cc	/^ void LossParameter::set_normalization(::caffe::LossParameter_NormalizationMode value) {$/;"	f	class:caffe::LossParameter	signature:(::caffe::LossParameter_NormalizationMode value)
+tags:caffe::LossParameter::set_normalization	.build_release/src/caffe/proto/caffe.pb.h	/^  void set_normalization(::caffe::LossParameter_NormalizationMode value);$/;"	p	class:caffe::LossParameter	access:public	signature:(::caffe::LossParameter_NormalizationMode value)
+tags:caffe::LossParameter::set_normalization	.build_release/src/caffe/proto/caffe.pb.h	/^inline void LossParameter::set_normalization(::caffe::LossParameter_NormalizationMode value) {$/;"	f	class:caffe::LossParameter	signature:(::caffe::LossParameter_NormalizationMode value)
+tags:caffe::LossParameter::set_normalization	build/src/caffe/proto/caffe.pb.cc	/^ void LossParameter::set_normalization(::caffe::LossParameter_NormalizationMode value) {$/;"	f	class:caffe::LossParameter	signature:(::caffe::LossParameter_NormalizationMode value)
+tags:caffe::LossParameter::set_normalization	build/src/caffe/proto/caffe.pb.h	/^  void set_normalization(::caffe::LossParameter_NormalizationMode value);$/;"	p	class:caffe::LossParameter	access:public	signature:(::caffe::LossParameter_NormalizationMode value)
+tags:caffe::LossParameter::set_normalization	build/src/caffe/proto/caffe.pb.h	/^inline void LossParameter::set_normalization(::caffe::LossParameter_NormalizationMode value) {$/;"	f	class:caffe::LossParameter	signature:(::caffe::LossParameter_NormalizationMode value)
+tags:caffe::LossParameter_NormalizationMode	.build_debug/src/caffe/proto/caffe.pb.h	/^enum LossParameter_NormalizationMode {$/;"	g	namespace:caffe
+tags:caffe::LossParameter_NormalizationMode	.build_release/src/caffe/proto/caffe.pb.h	/^enum LossParameter_NormalizationMode {$/;"	g	namespace:caffe
+tags:caffe::LossParameter_NormalizationMode	build/src/caffe/proto/caffe.pb.h	/^enum LossParameter_NormalizationMode {$/;"	g	namespace:caffe
+tags:caffe::LossParameter_NormalizationMode_BATCH_SIZE	.build_debug/src/caffe/proto/caffe.pb.h	/^  LossParameter_NormalizationMode_BATCH_SIZE = 2,$/;"	e	enum:caffe::LossParameter_NormalizationMode
+tags:caffe::LossParameter_NormalizationMode_BATCH_SIZE	.build_release/src/caffe/proto/caffe.pb.h	/^  LossParameter_NormalizationMode_BATCH_SIZE = 2,$/;"	e	enum:caffe::LossParameter_NormalizationMode
+tags:caffe::LossParameter_NormalizationMode_BATCH_SIZE	build/src/caffe/proto/caffe.pb.h	/^  LossParameter_NormalizationMode_BATCH_SIZE = 2,$/;"	e	enum:caffe::LossParameter_NormalizationMode
+tags:caffe::LossParameter_NormalizationMode_FULL	.build_debug/src/caffe/proto/caffe.pb.h	/^  LossParameter_NormalizationMode_FULL = 0,$/;"	e	enum:caffe::LossParameter_NormalizationMode
+tags:caffe::LossParameter_NormalizationMode_FULL	.build_release/src/caffe/proto/caffe.pb.h	/^  LossParameter_NormalizationMode_FULL = 0,$/;"	e	enum:caffe::LossParameter_NormalizationMode
+tags:caffe::LossParameter_NormalizationMode_FULL	build/src/caffe/proto/caffe.pb.h	/^  LossParameter_NormalizationMode_FULL = 0,$/;"	e	enum:caffe::LossParameter_NormalizationMode
+tags:caffe::LossParameter_NormalizationMode_IsValid	.build_debug/src/caffe/proto/caffe.pb.cc	/^bool LossParameter_NormalizationMode_IsValid(int value) {$/;"	f	namespace:caffe	signature:(int value)
+tags:caffe::LossParameter_NormalizationMode_IsValid	.build_debug/src/caffe/proto/caffe.pb.h	/^bool LossParameter_NormalizationMode_IsValid(int value);$/;"	p	namespace:caffe	signature:(int value)
+tags:caffe::LossParameter_NormalizationMode_IsValid	.build_release/src/caffe/proto/caffe.pb.cc	/^bool LossParameter_NormalizationMode_IsValid(int value) {$/;"	f	namespace:caffe	signature:(int value)
+tags:caffe::LossParameter_NormalizationMode_IsValid	.build_release/src/caffe/proto/caffe.pb.h	/^bool LossParameter_NormalizationMode_IsValid(int value);$/;"	p	namespace:caffe	signature:(int value)
+tags:caffe::LossParameter_NormalizationMode_IsValid	build/src/caffe/proto/caffe.pb.cc	/^bool LossParameter_NormalizationMode_IsValid(int value) {$/;"	f	namespace:caffe	signature:(int value)
+tags:caffe::LossParameter_NormalizationMode_IsValid	build/src/caffe/proto/caffe.pb.h	/^bool LossParameter_NormalizationMode_IsValid(int value);$/;"	p	namespace:caffe	signature:(int value)
+tags:caffe::LossParameter_NormalizationMode_NONE	.build_debug/src/caffe/proto/caffe.pb.h	/^  LossParameter_NormalizationMode_NONE = 4$/;"	e	enum:caffe::LossParameter_NormalizationMode
+tags:caffe::LossParameter_NormalizationMode_NONE	.build_release/src/caffe/proto/caffe.pb.h	/^  LossParameter_NormalizationMode_NONE = 4$/;"	e	enum:caffe::LossParameter_NormalizationMode
+tags:caffe::LossParameter_NormalizationMode_NONE	build/src/caffe/proto/caffe.pb.h	/^  LossParameter_NormalizationMode_NONE = 4$/;"	e	enum:caffe::LossParameter_NormalizationMode
+tags:caffe::LossParameter_NormalizationMode_Name	.build_debug/src/caffe/proto/caffe.pb.h	/^inline const ::std::string& LossParameter_NormalizationMode_Name(LossParameter_NormalizationMode value) {$/;"	f	namespace:caffe	signature:(LossParameter_NormalizationMode value)
+tags:caffe::LossParameter_NormalizationMode_Name	.build_release/src/caffe/proto/caffe.pb.h	/^inline const ::std::string& LossParameter_NormalizationMode_Name(LossParameter_NormalizationMode value) {$/;"	f	namespace:caffe	signature:(LossParameter_NormalizationMode value)
+tags:caffe::LossParameter_NormalizationMode_Name	build/src/caffe/proto/caffe.pb.h	/^inline const ::std::string& LossParameter_NormalizationMode_Name(LossParameter_NormalizationMode value) {$/;"	f	namespace:caffe	signature:(LossParameter_NormalizationMode value)
+tags:caffe::LossParameter_NormalizationMode_NormalizationMode_ARRAYSIZE	.build_debug/src/caffe/proto/caffe.pb.h	/^const int LossParameter_NormalizationMode_NormalizationMode_ARRAYSIZE = LossParameter_NormalizationMode_NormalizationMode_MAX + 1;$/;"	m	namespace:caffe
+tags:caffe::LossParameter_NormalizationMode_NormalizationMode_ARRAYSIZE	.build_release/src/caffe/proto/caffe.pb.h	/^const int LossParameter_NormalizationMode_NormalizationMode_ARRAYSIZE = LossParameter_NormalizationMode_NormalizationMode_MAX + 1;$/;"	m	namespace:caffe
+tags:caffe::LossParameter_NormalizationMode_NormalizationMode_ARRAYSIZE	build/src/caffe/proto/caffe.pb.h	/^const int LossParameter_NormalizationMode_NormalizationMode_ARRAYSIZE = LossParameter_NormalizationMode_NormalizationMode_MAX + 1;$/;"	m	namespace:caffe
+tags:caffe::LossParameter_NormalizationMode_NormalizationMode_MAX	.build_debug/src/caffe/proto/caffe.pb.h	/^const LossParameter_NormalizationMode LossParameter_NormalizationMode_NormalizationMode_MAX = LossParameter_NormalizationMode_NONE;$/;"	m	namespace:caffe
+tags:caffe::LossParameter_NormalizationMode_NormalizationMode_MAX	.build_release/src/caffe/proto/caffe.pb.h	/^const LossParameter_NormalizationMode LossParameter_NormalizationMode_NormalizationMode_MAX = LossParameter_NormalizationMode_NONE;$/;"	m	namespace:caffe
+tags:caffe::LossParameter_NormalizationMode_NormalizationMode_MAX	build/src/caffe/proto/caffe.pb.h	/^const LossParameter_NormalizationMode LossParameter_NormalizationMode_NormalizationMode_MAX = LossParameter_NormalizationMode_NONE;$/;"	m	namespace:caffe
+tags:caffe::LossParameter_NormalizationMode_NormalizationMode_MIN	.build_debug/src/caffe/proto/caffe.pb.h	/^const LossParameter_NormalizationMode LossParameter_NormalizationMode_NormalizationMode_MIN = LossParameter_NormalizationMode_FULL;$/;"	m	namespace:caffe
+tags:caffe::LossParameter_NormalizationMode_NormalizationMode_MIN	.build_release/src/caffe/proto/caffe.pb.h	/^const LossParameter_NormalizationMode LossParameter_NormalizationMode_NormalizationMode_MIN = LossParameter_NormalizationMode_FULL;$/;"	m	namespace:caffe
+tags:caffe::LossParameter_NormalizationMode_NormalizationMode_MIN	build/src/caffe/proto/caffe.pb.h	/^const LossParameter_NormalizationMode LossParameter_NormalizationMode_NormalizationMode_MIN = LossParameter_NormalizationMode_FULL;$/;"	m	namespace:caffe
+tags:caffe::LossParameter_NormalizationMode_PRE_FIXED	.build_debug/src/caffe/proto/caffe.pb.h	/^  LossParameter_NormalizationMode_PRE_FIXED = 3,$/;"	e	enum:caffe::LossParameter_NormalizationMode
+tags:caffe::LossParameter_NormalizationMode_PRE_FIXED	.build_release/src/caffe/proto/caffe.pb.h	/^  LossParameter_NormalizationMode_PRE_FIXED = 3,$/;"	e	enum:caffe::LossParameter_NormalizationMode
+tags:caffe::LossParameter_NormalizationMode_PRE_FIXED	build/src/caffe/proto/caffe.pb.h	/^  LossParameter_NormalizationMode_PRE_FIXED = 3,$/;"	e	enum:caffe::LossParameter_NormalizationMode
+tags:caffe::LossParameter_NormalizationMode_Parse	.build_debug/src/caffe/proto/caffe.pb.h	/^inline bool LossParameter_NormalizationMode_Parse($/;"	f	namespace:caffe	signature:( const ::std::string& name, LossParameter_NormalizationMode* value)
+tags:caffe::LossParameter_NormalizationMode_Parse	.build_release/src/caffe/proto/caffe.pb.h	/^inline bool LossParameter_NormalizationMode_Parse($/;"	f	namespace:caffe	signature:( const ::std::string& name, LossParameter_NormalizationMode* value)
+tags:caffe::LossParameter_NormalizationMode_Parse	build/src/caffe/proto/caffe.pb.h	/^inline bool LossParameter_NormalizationMode_Parse($/;"	f	namespace:caffe	signature:( const ::std::string& name, LossParameter_NormalizationMode* value)
+tags:caffe::LossParameter_NormalizationMode_VALID	.build_debug/src/caffe/proto/caffe.pb.h	/^  LossParameter_NormalizationMode_VALID = 1,$/;"	e	enum:caffe::LossParameter_NormalizationMode
+tags:caffe::LossParameter_NormalizationMode_VALID	.build_release/src/caffe/proto/caffe.pb.h	/^  LossParameter_NormalizationMode_VALID = 1,$/;"	e	enum:caffe::LossParameter_NormalizationMode
+tags:caffe::LossParameter_NormalizationMode_VALID	build/src/caffe/proto/caffe.pb.h	/^  LossParameter_NormalizationMode_VALID = 1,$/;"	e	enum:caffe::LossParameter_NormalizationMode
+tags:caffe::LossParameter_NormalizationMode_descriptor	.build_debug/src/caffe/proto/caffe.pb.cc	/^const ::google::protobuf::EnumDescriptor* LossParameter_NormalizationMode_descriptor() {$/;"	f	namespace:caffe	signature:()
+tags:caffe::LossParameter_NormalizationMode_descriptor	.build_debug/src/caffe/proto/caffe.pb.h	/^const ::google::protobuf::EnumDescriptor* LossParameter_NormalizationMode_descriptor();$/;"	p	namespace:caffe	signature:()
+tags:caffe::LossParameter_NormalizationMode_descriptor	.build_release/src/caffe/proto/caffe.pb.cc	/^const ::google::protobuf::EnumDescriptor* LossParameter_NormalizationMode_descriptor() {$/;"	f	namespace:caffe	signature:()
+tags:caffe::LossParameter_NormalizationMode_descriptor	.build_release/src/caffe/proto/caffe.pb.h	/^const ::google::protobuf::EnumDescriptor* LossParameter_NormalizationMode_descriptor();$/;"	p	namespace:caffe	signature:()
+tags:caffe::LossParameter_NormalizationMode_descriptor	build/src/caffe/proto/caffe.pb.cc	/^const ::google::protobuf::EnumDescriptor* LossParameter_NormalizationMode_descriptor() {$/;"	f	namespace:caffe	signature:()
+tags:caffe::LossParameter_NormalizationMode_descriptor	build/src/caffe/proto/caffe.pb.h	/^const ::google::protobuf::EnumDescriptor* LossParameter_NormalizationMode_descriptor();$/;"	p	namespace:caffe	signature:()
+tags:caffe::SmoothL1LossOHEMLayer::get_normalizer	include/caffe/layers/smooth_l1_loss_ohem_layer.hpp	/^    virtual Dtype get_normalizer($/;"	p	class:caffe::SmoothL1LossOHEMLayer	access:protected	signature:( LossParameter_NormalizationMode normalization_mode, Dtype pre_fixed_normalizer)
+tags:caffe::SmoothL1LossOHEMLayer::get_normalizer	src/caffe/layers/smooth_L1_loss_ohem_layer.cpp	/^Dtype SmoothL1LossOHEMLayer<Dtype>::get_normalizer($/;"	f	class:caffe::SmoothL1LossOHEMLayer	signature:( LossParameter_NormalizationMode normalization_mode, Dtype pre_fixed_normalizer)
+tags:caffe::SmoothL1LossOHEMLayer::normalization_	include/caffe/layers/smooth_l1_loss_ohem_layer.hpp	/^    LossParameter_NormalizationMode normalization_;$/;"	m	class:caffe::SmoothL1LossOHEMLayer	access:protected
+tags:caffe::SoftmaxWithLossLayer::get_normalizer	include/caffe/layers/softmax_loss_layer.hpp	/^  virtual Dtype get_normalizer($/;"	p	class:caffe::SoftmaxWithLossLayer	access:protected	signature:( LossParameter_NormalizationMode normalization_mode, int valid_count)
+tags:caffe::SoftmaxWithLossLayer::get_normalizer	src/caffe/layers/softmax_loss_layer.cpp	/^Dtype SoftmaxWithLossLayer<Dtype>::get_normalizer($/;"	f	class:caffe::SoftmaxWithLossLayer	signature:( LossParameter_NormalizationMode normalization_mode, int valid_count)
+tags:caffe::SoftmaxWithLossLayer::normalization_	include/caffe/layers/softmax_loss_layer.hpp	/^  LossParameter_NormalizationMode normalization_;$/;"	m	class:caffe::SoftmaxWithLossLayer	access:protected
+tags:caffe::SoftmaxWithLossOHEMLayer::get_normalizer	include/caffe/layers/softmax_loss_ohem_layer.hpp	/^  virtual Dtype get_normalizer($/;"	p	class:caffe::SoftmaxWithLossOHEMLayer	access:protected	signature:( LossParameter_NormalizationMode normalization_mode, int valid_count)
+tags:caffe::SoftmaxWithLossOHEMLayer::get_normalizer	src/caffe/layers/softmax_loss_ohem_layer.cpp	/^Dtype SoftmaxWithLossOHEMLayer<Dtype>::get_normalizer($/;"	f	class:caffe::SoftmaxWithLossOHEMLayer	signature:( LossParameter_NormalizationMode normalization_mode, int valid_count)
+tags:caffe::SoftmaxWithLossOHEMLayer::normalization_	include/caffe/layers/softmax_loss_ohem_layer.hpp	/^  LossParameter_NormalizationMode normalization_;$/;"	m	class:caffe::SoftmaxWithLossOHEMLayer	access:protected
+tags:caffe::__anon11::LossParameter_NormalizationMode_descriptor_	.build_debug/src/caffe/proto/caffe.pb.cc	/^const ::google::protobuf::EnumDescriptor* LossParameter_NormalizationMode_descriptor_ = NULL;$/;"	m	namespace:caffe::__anon11	file:
+tags:caffe::__anon7::LossParameter_NormalizationMode_descriptor_	.build_release/src/caffe/proto/caffe.pb.cc	/^const ::google::protobuf::EnumDescriptor* LossParameter_NormalizationMode_descriptor_ = NULL;$/;"	m	namespace:caffe::__anon7	file:
+tags:caffe::__anon9::LossParameter_NormalizationMode_descriptor_	build/src/caffe/proto/caffe.pb.cc	/^const ::google::protobuf::EnumDescriptor* LossParameter_NormalizationMode_descriptor_ = NULL;$/;"	m	namespace:caffe::__anon9	file:
+tags:get_normalizer	include/caffe/layers/smooth_l1_loss_ohem_layer.hpp	/^    virtual Dtype get_normalizer($/;"	p	class:caffe::SmoothL1LossOHEMLayer	access:protected	signature:( LossParameter_NormalizationMode normalization_mode, Dtype pre_fixed_normalizer)
+tags:get_normalizer	include/caffe/layers/softmax_loss_layer.hpp	/^  virtual Dtype get_normalizer($/;"	p	class:caffe::SoftmaxWithLossLayer	access:protected	signature:( LossParameter_NormalizationMode normalization_mode, int valid_count)
+tags:get_normalizer	include/caffe/layers/softmax_loss_ohem_layer.hpp	/^  virtual Dtype get_normalizer($/;"	p	class:caffe::SoftmaxWithLossOHEMLayer	access:protected	signature:( LossParameter_NormalizationMode normalization_mode, int valid_count)
+tags:get_normalizer	src/caffe/layers/smooth_L1_loss_ohem_layer.cpp	/^Dtype SmoothL1LossOHEMLayer<Dtype>::get_normalizer($/;"	f	class:caffe::SmoothL1LossOHEMLayer	signature:( LossParameter_NormalizationMode normalization_mode, Dtype pre_fixed_normalizer)
+tags:get_normalizer	src/caffe/layers/softmax_loss_layer.cpp	/^Dtype SoftmaxWithLossLayer<Dtype>::get_normalizer($/;"	f	class:caffe::SoftmaxWithLossLayer	signature:( LossParameter_NormalizationMode normalization_mode, int valid_count)
+tags:get_normalizer	src/caffe/layers/softmax_loss_ohem_layer.cpp	/^Dtype SoftmaxWithLossOHEMLayer<Dtype>::get_normalizer($/;"	f	class:caffe::SoftmaxWithLossOHEMLayer	signature:( LossParameter_NormalizationMode normalization_mode, int valid_count)
+tags:google::protobuf::GetEnumDescriptor	.build_debug/src/caffe/proto/caffe.pb.h	/^inline const EnumDescriptor* GetEnumDescriptor< ::caffe::LossParameter_NormalizationMode>() {$/;"	f	namespace:google::protobuf	signature:()
+tags:google::protobuf::GetEnumDescriptor	.build_release/src/caffe/proto/caffe.pb.h	/^inline const EnumDescriptor* GetEnumDescriptor< ::caffe::LossParameter_NormalizationMode>() {$/;"	f	namespace:google::protobuf	signature:()
+tags:google::protobuf::GetEnumDescriptor	build/src/caffe/proto/caffe.pb.h	/^inline const EnumDescriptor* GetEnumDescriptor< ::caffe::LossParameter_NormalizationMode>() {$/;"	f	namespace:google::protobuf	signature:()
+tags:google::protobuf::is_proto_enum	.build_debug/src/caffe/proto/caffe.pb.h	/^template <> struct is_proto_enum< ::caffe::LossParameter_NormalizationMode> : ::google::protobuf::internal::true_type {};$/;"	s	namespace:google::protobuf	inherits:::google::protobuf::internal::true_type
+tags:google::protobuf::is_proto_enum	.build_release/src/caffe/proto/caffe.pb.h	/^template <> struct is_proto_enum< ::caffe::LossParameter_NormalizationMode> : ::google::protobuf::internal::true_type {};$/;"	s	namespace:google::protobuf	inherits:::google::protobuf::internal::true_type
+tags:google::protobuf::is_proto_enum	build/src/caffe/proto/caffe.pb.h	/^template <> struct is_proto_enum< ::caffe::LossParameter_NormalizationMode> : ::google::protobuf::internal::true_type {};$/;"	s	namespace:google::protobuf	inherits:::google::protobuf::internal::true_type
+tags:is_proto_enum	.build_debug/src/caffe/proto/caffe.pb.h	/^template <> struct is_proto_enum< ::caffe::LossParameter_NormalizationMode> : ::google::protobuf::internal::true_type {};$/;"	s	namespace:google::protobuf	inherits:::google::protobuf::internal::true_type
+tags:is_proto_enum	.build_release/src/caffe/proto/caffe.pb.h	/^template <> struct is_proto_enum< ::caffe::LossParameter_NormalizationMode> : ::google::protobuf::internal::true_type {};$/;"	s	namespace:google::protobuf	inherits:::google::protobuf::internal::true_type
+tags:is_proto_enum	build/src/caffe/proto/caffe.pb.h	/^template <> struct is_proto_enum< ::caffe::LossParameter_NormalizationMode> : ::google::protobuf::internal::true_type {};$/;"	s	namespace:google::protobuf	inherits:::google::protobuf::internal::true_type
+tags:normalization	.build_debug/src/caffe/proto/caffe.pb.cc	/^ ::caffe::LossParameter_NormalizationMode LossParameter::normalization() const {$/;"	f	class:caffe::LossParameter	signature:() const
+tags:normalization	.build_debug/src/caffe/proto/caffe.pb.h	/^  ::caffe::LossParameter_NormalizationMode normalization() const;$/;"	p	class:caffe::LossParameter	access:public	signature:() const
+tags:normalization	.build_debug/src/caffe/proto/caffe.pb.h	/^inline ::caffe::LossParameter_NormalizationMode LossParameter::normalization() const {$/;"	f	class:caffe::LossParameter	signature:() const
+tags:normalization	.build_release/src/caffe/proto/caffe.pb.cc	/^ ::caffe::LossParameter_NormalizationMode LossParameter::normalization() const {$/;"	f	class:caffe::LossParameter	signature:() const
+tags:normalization	.build_release/src/caffe/proto/caffe.pb.h	/^  ::caffe::LossParameter_NormalizationMode normalization() const;$/;"	p	class:caffe::LossParameter	access:public	signature:() const
+tags:normalization	.build_release/src/caffe/proto/caffe.pb.h	/^inline ::caffe::LossParameter_NormalizationMode LossParameter::normalization() const {$/;"	f	class:caffe::LossParameter	signature:() const
+tags:normalization	build/src/caffe/proto/caffe.pb.cc	/^ ::caffe::LossParameter_NormalizationMode LossParameter::normalization() const {$/;"	f	class:caffe::LossParameter	signature:() const
+tags:normalization	build/src/caffe/proto/caffe.pb.h	/^  ::caffe::LossParameter_NormalizationMode normalization() const;$/;"	p	class:caffe::LossParameter	access:public	signature:() const
+tags:normalization	build/src/caffe/proto/caffe.pb.h	/^inline ::caffe::LossParameter_NormalizationMode LossParameter::normalization() const {$/;"	f	class:caffe::LossParameter	signature:() const
+tags:normalization_	include/caffe/layers/smooth_l1_loss_ohem_layer.hpp	/^    LossParameter_NormalizationMode normalization_;$/;"	m	class:caffe::SmoothL1LossOHEMLayer	access:protected
+tags:normalization_	include/caffe/layers/softmax_loss_layer.hpp	/^  LossParameter_NormalizationMode normalization_;$/;"	m	class:caffe::SoftmaxWithLossLayer	access:protected
+tags:normalization_	include/caffe/layers/softmax_loss_ohem_layer.hpp	/^  LossParameter_NormalizationMode normalization_;$/;"	m	class:caffe::SoftmaxWithLossOHEMLayer	access:protected
+tags:set_normalization	.build_debug/src/caffe/proto/caffe.pb.cc	/^ void LossParameter::set_normalization(::caffe::LossParameter_NormalizationMode value) {$/;"	f	class:caffe::LossParameter	signature:(::caffe::LossParameter_NormalizationMode value)
+tags:set_normalization	.build_debug/src/caffe/proto/caffe.pb.h	/^  void set_normalization(::caffe::LossParameter_NormalizationMode value);$/;"	p	class:caffe::LossParameter	access:public	signature:(::caffe::LossParameter_NormalizationMode value)
+tags:set_normalization	.build_debug/src/caffe/proto/caffe.pb.h	/^inline void LossParameter::set_normalization(::caffe::LossParameter_NormalizationMode value) {$/;"	f	class:caffe::LossParameter	signature:(::caffe::LossParameter_NormalizationMode value)
+tags:set_normalization	.build_release/src/caffe/proto/caffe.pb.cc	/^ void LossParameter::set_normalization(::caffe::LossParameter_NormalizationMode value) {$/;"	f	class:caffe::LossParameter	signature:(::caffe::LossParameter_NormalizationMode value)
+tags:set_normalization	.build_release/src/caffe/proto/caffe.pb.h	/^  void set_normalization(::caffe::LossParameter_NormalizationMode value);$/;"	p	class:caffe::LossParameter	access:public	signature:(::caffe::LossParameter_NormalizationMode value)
+tags:set_normalization	.build_release/src/caffe/proto/caffe.pb.h	/^inline void LossParameter::set_normalization(::caffe::LossParameter_NormalizationMode value) {$/;"	f	class:caffe::LossParameter	signature:(::caffe::LossParameter_NormalizationMode value)
+tags:set_normalization	build/src/caffe/proto/caffe.pb.cc	/^ void LossParameter::set_normalization(::caffe::LossParameter_NormalizationMode value) {$/;"	f	class:caffe::LossParameter	signature:(::caffe::LossParameter_NormalizationMode value)
+tags:set_normalization	build/src/caffe/proto/caffe.pb.h	/^  void set_normalization(::caffe::LossParameter_NormalizationMode value);$/;"	p	class:caffe::LossParameter	access:public	signature:(::caffe::LossParameter_NormalizationMode value)
+tags:set_normalization	build/src/caffe/proto/caffe.pb.h	/^inline void LossParameter::set_normalization(::caffe::LossParameter_NormalizationMode value) {$/;"	f	class:caffe::LossParameter	signature:(::caffe::LossParameter_NormalizationMode value)
